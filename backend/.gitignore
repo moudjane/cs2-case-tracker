@@ -1,0 +1,5 @@
+.env
+cs2-case-tracker-go
+*.exe
+*.out
+*.bin
